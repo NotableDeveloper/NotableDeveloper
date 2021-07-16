@@ -11,4 +11,14 @@
 - Spring
 - TDD
 - Cloud Platform (like Aws)
+
+<div align=center>
   
+### Tech Stack
+<img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Python&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Python&logoColor=green"/></a>
+<img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=gray"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
+<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=purple"/></a>
+</div>
