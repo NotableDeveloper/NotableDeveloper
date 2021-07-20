@@ -5,7 +5,7 @@
 </div>
 
 ### NotableDeveloper
-- I'm Backend Enginner based on Spring framework
+- Backend Enginner based on Spring framework
   
 ### Interest
 - Spring
