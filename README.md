@@ -11,6 +11,8 @@
 - Spring
 - TDD
 - Cloud Platform (like Aws)
+- ORM
+- Hibernate
 
 <div align=center>
   
