@@ -5,12 +5,13 @@
 </div>
 
 ### NotableDeveloper
-- Backend Enginner based on Spring framework
+- Backend developer based on Java
   
 ### Interest
+- Java
 - Spring
 - TDD
-- Cloud Platform (like Aws)
+- Cloud Platform
 - ORM
 - Hibernate
 
