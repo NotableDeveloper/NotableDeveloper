@@ -8,11 +8,11 @@
 - Backend developer based on Java
   
 ### Interest
-- Java
-- Spring
-- TDD
-- Cloud Platform
-- ORM
+- Java & Spring
+- Socket
+- Docker
+- Cloud Platform (AWS, GCP, etc...)
+- ORM 
 - Hibernate
 
 <div align=center>
