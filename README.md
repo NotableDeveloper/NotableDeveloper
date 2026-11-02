@@ -36,4 +36,4 @@ through practical, reliable backend development.
 
 ## Technical Blog
 
-[Engineering Notes](https://notabledeveloper.github.io/) — 실무 기술과 문제 해결 과정을 기록합니다.
+[Engineering Notes](https://notabledeveloper.github.io/)
