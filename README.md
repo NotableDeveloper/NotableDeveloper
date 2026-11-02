@@ -33,3 +33,7 @@ through practical, reliable backend development.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Technical Blog
+
+[Engineering Notes](https://notabledeveloper.github.io/) — 실무 기술과 문제 해결 과정을 기록합니다.
