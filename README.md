@@ -1,27 +1,35 @@
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNotableDeveloper&count_bg=%23643DC8&title_bg=%23555555&icon=nintendogamecube.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
+# NotableDeveloper
+### Backend Developer | IPCC & AICC
 
-### NotableDeveloper
-- Backend developer based on Java
-  
-### Interest
-- Java & Spring
-- Socket
-- Docker
-- Cloud Platform (AWS, GCP, etc...)
-- ORM 
-- Hibernate
+I build backend systems for IP-based and AI-powered contact centers,
+with Java and Spring at the core.
 
-<div align=center>
-  
-### Tech Stack
-<img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Python&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Python&logoColor=green"/></a>
-<img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=gray"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
-<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=purple"/></a>
-</div>
+My work connects telephony infrastructure with application services,
+from CTI and real-time communication to speech recognition integration.
+I focus on bringing AI capabilities into contact center workflows
+through practical, reliable backend development.
+
+## Focus
+
+- **IPCC** — CTI and backend services for IP-based contact centers
+- **AICC** — Speech recognition integration and AI-enabled voice workflows
+- **Real-Time Communication** — Asterisk, WebSocket, and WebRTC integration
+
+## Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Communication**
+
+![Asterisk](https://img.shields.io/badge/Asterisk-F37402?style=flat-square&logo=asterisk&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-643DC8?style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
